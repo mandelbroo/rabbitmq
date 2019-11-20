@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "producer": "nodemon producer.js",
+    "consumer": "nodemon consumer.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
